@@ -1,1 +1,2 @@
 https://github.com/getsentry/sentry-auth-github/archive/master.zip
+https://github.com/getsentry/sentry-slack/archive/master.zip
