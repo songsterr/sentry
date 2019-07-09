@@ -1,0 +1,5 @@
+pipeline:
+
+  docker:
+    image: hub.terra.songsterr.com/drone-docker
+    docker: true
