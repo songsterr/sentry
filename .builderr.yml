@@ -1,5 +1,5 @@
 pipeline:
 
   docker:
-    image: hub.terra.songsterr.com/drone-docker
+    image: hub.terra.songsterr.com/builderr-docker
     docker: true
